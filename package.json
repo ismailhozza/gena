@@ -1,0 +1,40 @@
+{
+  "name": "gena",
+  "version": "1.0.0",
+  "description": "GenerationA",
+  "main": "index.js",
+  "scripts": {
+    "lint": "node ./node_modules/tslint/bin/tslint -c tslint.json -p tsconfig.json",
+    "tsc": "node ./node_modules/typescript/bin/tsc",
+    "mgte": "node ./dist/db/migrate.js up",
+    "mgte-new": "ts-node ./src/db/new-migration.ts",
+    "mgte-reset": "node ./dist/src/db/migrate.js reset",
+    "mgte-prev": "node ./dist/src/db/migrate.js prev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://ismail@46.101.160.163/opt/git/gena.git"
+  },
+  "author": "Hussein Ismail",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/bluebird": "^3.5.24",
+    "@types/dotenv": "^4.0.3",
+    "@types/node": "^10.9.4",
+    "@types/umzug": "^2.2.0",
+    "ts-node": "^7.0.1",
+    "tslint": "^5.11.0",
+    "typescript": "^3.0.3"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "bluebird": "^3.5.2",
+    "dotenv": "^6.0.0",
+    "jsonwebtoken": "^8.3.0",
+    "koa": "^2.5.2",
+    "koa-bodyparser": "^4.2.1",
+    "koa-logger": "^3.2.0",
+    "mysql2": "^1.6.1",
+    "umzug": "^2.1.0"
+  }
+}
