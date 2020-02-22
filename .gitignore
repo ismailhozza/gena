@@ -1,8 +1,0 @@
-node_modules
-dist
-scripts
-.idea
-.DS_STORE
-*.~vsdx
-umzug.json
-.env
