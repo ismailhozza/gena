@@ -20,9 +20,16 @@ Tags are managed under the user profile.
 
 Creating a new contact
 
+![Contact](images/contact.gif "Create contact")
+
 Managing tags
 
 ![Tags](images/tags.gif "Manage tags")
+
+Contacts can be filtered by gender, tag, id or a free text like name. Filter contacts is shown below.
+
+![Filter](images/contacts-filter.gif "Filtering contacts")
+
 
 ## Groups
 
