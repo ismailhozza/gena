@@ -71,11 +71,18 @@ Below the chart there is the target contacts of the fee.
 
 Fee payments can be created easily on the bottom of the fee details page.
 
-Payments to multiple fees can be imported easy as shown below.
 
 ![NewPayment](images/new-payment.gif "New payment")
 
+Payments to multiple fees can be imported easily at one. The UI allows making corrections before actually importing the fees.
+
+![ImportPayment](images/import-payment.gif "Import payments")
+
 ## Messages
+
+Messaging based on SMS is one of the core features of GenA. Message can target individual contact, a group, a course or fee. Two-way communication is possible allowing GenA to receive messages from registered contacts.
+
+Automatic messages for events and fees are supported.
 
 ## Users and Devices
 
