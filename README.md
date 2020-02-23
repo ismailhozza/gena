@@ -43,14 +43,28 @@ Adding tag to contact, group course or fee is shown below.
 
 Groups are based on tags and they offer two features: **calendar** and **messaging** for group of related contacts. Calendar widget of the group is shown on the bottom of the group. Above calendar there is messages sent to this group. Calendar events can be one time or recurring events.
 
+Group membership is based on tags, any contact that has any of the tags of the group will be part of that group.
+
 Creating calendar event
 
 ![Events](images/new-event.gif "New event")
 
 ## Courses
 
+Courses are similar to groups.
+
 ## Fees
 
 ## Messages
 
-## Users
+## Users and Devices
+
+New users can be created easily. There three roles available: admin, instructor and cashier currently.
+
+![Users](images/users.gif "New user")
+
+## Devices
+
+This page shows the status of the devices
+
+![Devices](images/devices.gif "Devices")
