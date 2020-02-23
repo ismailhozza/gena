@@ -51,9 +51,29 @@ Creating calendar event
 
 ## Courses
 
-Courses are similar to groups.
+Courses are very similar to groups.
 
 ## Fees
+
+Manage easily fees here. Create a new fee by specifying year, month and amount. Specify target contacts by adding **tags** to the fee. See details of the fee including current payments and statistics.
+
+By default on fees of this year are shown and old ones are hidden.
+
+On the top of the fee details page there are shortcuts to other fees.
+
+Then comes details of this fee. Pie chart shows current payment statistics.
+
+Below the chart there is the target contacts of the fee.
+
+![Fees](images/fees.gif "New fee")
+
+### Payments
+
+Fee payments can be created easily on the bottom of the fee details page.
+
+Payments to multiple fees can be imported easy as shown below.
+
+![NewPayment](images/new-payment.gif "New payment")
 
 ## Messages
 
