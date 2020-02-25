@@ -17,7 +17,7 @@ Desktop and web version.
 
 Mobile version.
 
-![GenWeb](images/mobile.png "Generation A Mobile")
+![GenWeb](images/mobile.jpeg "Generation A Mobile")
 
 
 ## Contacts
