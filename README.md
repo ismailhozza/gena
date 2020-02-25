@@ -11,6 +11,13 @@ It's built to be simple and mobile friendly by design.
 
 The fees management module can be used separately by any one who gets regular payments from customers/contacts and wants to track those payments.
 
+Desktop and web version.
+
+![GenWeb](images/desktop.png "Generation A Web")
+
+Mobile version.
+
+![GenWeb](images/mobile.png "Generation A Mobile")
 
 
 ## Contacts
