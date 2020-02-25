@@ -7,9 +7,11 @@
 
 GenA is a simple CRM application containing the most fundamental features only. It's meant for **small** to **medium** **schools**, **clubs**, **teaching centers**, **tuition centers** etc.
 
-It's built to be simple by design and to be mobile first from the beginning.
+It's built to be simple and mobile friendly by design.
 
-The fees management module can be used separately by any one who gets regular payments from customers and wants to track and notify customer based on their payments.
+The fees management module can be used separately by any one who gets regular payments from customers/contacts and wants to track those payments.
+
+
 
 ## Contacts
 
